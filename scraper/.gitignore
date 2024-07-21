@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+.env/
+
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+/images
